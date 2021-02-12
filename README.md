@@ -1,3 +1,25 @@
+Hosted: https://covid19trkr-react.netlify.app/
+
+A fast, responsive and user-friendly Covid-19 Tracker built with React and Chart.js and styled with Material-UI, using Covid-19 Mathroid API. The site shows number of Infected, Recovered and Deaths on a global scale or by country via a count-up timer. The global scale is displayed on a line chart, while individual countries are displayed on bar charts.
+
+Some of the benefits of using React and Material-UI together are that it guarantees better user experience and higher performance due to React features such as virtual DOM to which all the changes made are applied first and then, using the diff algorithm, the minimal scope of necessary operations is calculated and updated to the real DOM. The benefit of using Material Design is that Google has invested a lot of time and effort into UI and UX research, so customers can learn the apps faster, due to consistent navigation and behavior and previous familiarity.
+
+-Better user experience 
+
+-Higher performance and faster rendering
+
+-Consistent design and behavior
+
+-Faster and easier to develop
+
+-Reusable components
+
+-SEO friendly
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
